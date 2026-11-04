@@ -1,1 +1,4 @@
-print("learning python")
+print("hello word.")
+print("my name is chanchala.")
+
+
